@@ -1,6 +1,6 @@
 ### Hi there, I'm Tejaswin Parthasarathy 👋
 
-### I'm a devloper and researcher.
+### I'm a developer and researcher.
 - 🔭 I’m currently working on [`elastica++`](https://www.cosseratrods.org/), a HPC library to simulate the dynamics of soft elastic rods.
 - 🥇 I'm also working on software that captures interaction between fluid flows and soft+rigid structures.
 - 📖 I'm pursuing my PhD at the intersection of continuum mechanics, theoretical modeling, numerical algorithms, HPC, software-at-scale and optimization/learning techniques.
