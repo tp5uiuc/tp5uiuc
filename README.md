@@ -8,7 +8,7 @@
 | ------------- | ------------- |
 
 
-Feel free to visit my [website](https://parthas1.github.io/), [Linkedin](www.linkedin.com/in/tejaswinsarathy) and [Scholar](https://scholar.google.com/citations?user=ePMgfJ8AAAAJ&hl=en) profile.
+Feel free to visit my [website](https://parthas1.github.io/), [Linkedin](https://www.linkedin.com/in/tejaswinsarathy) and [Scholar](https://scholar.google.com/citations?user=ePMgfJ8AAAAJ&hl=en) profile.
 
 <!--
 **tp5uiuc/tp5uiuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
