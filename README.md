@@ -4,10 +4,9 @@
 - 🥇 I'm also working on software that captures interaction between fluid flows and soft+rigid structures.
 - 🌱 I’m currently learning computational statistics, RL/ML.
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=tp5uiuc&count_private=true&show_icons=true&layout=compact" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tp5uiuc&count_private=true&layout=compact" />
-</div>
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tp5uiuc&count_private=true&show_icons=true&layout=compact" alt="Hussain's github stats"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tp5uiuc&count_private=true&layout=compact"/></a> |
+| ------------- | ------------- |
+
 
 Feel free to visit my [website](https://parthas1.github.io/), [Linkedin](www.linkedin.com/in/tejaswinsarathy) and [Scholar](https://scholar.google.com/citations?user=ePMgfJ8AAAAJ&hl=en) profile.
 
